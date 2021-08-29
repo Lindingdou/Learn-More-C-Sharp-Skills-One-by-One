@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:Example1_wpf_PropSys"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        
     </Application.Resources>
+    
 </Application>
